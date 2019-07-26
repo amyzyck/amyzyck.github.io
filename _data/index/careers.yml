@@ -1,28 +1,28 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: University of Rhode Island 
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Biological and Environmental Sciences Department, Evolutionary and Marine Biology Specialization
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: September 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Ph.D. Student - Teaching Assistant and Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: University of South Carolina 
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Marine Science Program - Major: Marine Science with Emphasis in Biological Oceanography; Minor: Spanish 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: August 2014 - May 2018
     i18n: company_b_date
   job:
     detail: Full Stack Developer
