@@ -3,7 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/Beavertailpark.jpg
-  title: first banner image
+  title: Beavertail State Park - Jamestown, RI
 
 - src: landing/Nudibranchpic.jpg
-  title: second banner image
+  title: Nudibranch in Point Judith Marina - South Kingstown, RI 
