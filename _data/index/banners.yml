@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/Beavertailpark.jpg
-  title: Beavertail State Park - Jamestown, RI
+- src: landing/SunsetMD.jpg
+  title: Sunset over water - Chesapeake Bay, Maryland
 
 - src: landing/Nudibranchfinal.jpg
   title: Nudibranch in Point Judith Marina - South Kingstown, RI 
