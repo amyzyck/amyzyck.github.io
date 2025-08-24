@@ -4,16 +4,57 @@
     detail: University of Rhode Island 
     i18n: company_a
   desc:
-    detail: Biological and Environmental Sciences Department, Evolutionary and Marine Biology Specialization
+    detail: Department of Biological Sciences
     i18n: company_a_desc
   date:
-    detail: September 2018
+    detail: May 2025-present
     i18n: company_a_date
   job:
-    detail: Ph.D. Student - Teaching Assistant and Research Assistant
+    detail: Postdoctoral researcher
     i18n: company_a_job
-  icon: fa-plus-square
-  present: true
+  icon: fa-laptop-code
+  
+- name:
+    detail: University of Rhode Island 
+    i18n: company_a
+  desc:
+    detail: Biological and Environmental Sciences Program, Evolutionary and Marine Biology Specialization
+    i18n: company_a_desc
+  date:
+    detail: September 2018 - May 2025
+    i18n: company_a_date
+  job:
+    detail: Ph.D.
+    i18n: company_a_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: University of Rhode Island 
+    i18n: company_a
+  desc:
+    detail: Biological and Environmental Sciences Program
+    i18n: company_a_desc
+  date:
+    detail: January 2020 - May 2025
+    i18n: company_a_date
+  job:
+    detail: Graduate Research Assistant
+    i18n: company_a_job
+  icon: fa-laptop-code
+
+- name:
+    detail: University of Rhode Island 
+    i18n: company_a
+  desc:
+    detail: Biological and Environmental Sciences Program
+    i18n: company_a_desc
+  date:
+    detail: September 2018 - December 2019
+    i18n: company_a_date
+  job:
+    detail: Graduate Teaching Assistant - Invertebrate Zoology, Marine Invertebrates of New England, Introductory Biology
+    i18n: company_a_job
+  icon: fa-chalkboard
 
 - name:
     detail: University of South Carolina 
@@ -27,4 +68,4 @@
   job:
     detail: Bachelor of Science 
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
