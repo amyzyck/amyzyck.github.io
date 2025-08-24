@@ -16,9 +16,9 @@ author: # change following line to your infomation.
   last_name: Zyck  # Be used at index page about me section.
   avatar: /static/assets/img/landing/AmyHeadshot.jpg  # upload your avatar at directory and edit it.
   github_username: amyzyck  # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now
+  linkedin_id: amy-zyck  # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
-  twitter_username: AZyck  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
   email: amaeliazyck@gmail.com  # Leave blank if you don't have now
   cv: https://github.com/amyzyck/AmyZyck_Notebook/blob/master/about.md  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -28,7 +28,8 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: icon-java-bold
     - name: icon-shell
-  desc: I am a Ph.D. student at the University of Rhode Island in the Puritz Lab of Marine Evolutionary Ecology. Broadly, I am interested in assessing evolutionary responses of benthic marine organisms to multiple anthropogenic stressors. I am using seascape genomics techniques to understand how stressors, like sewage effluent, can act as barriers to gene flow across marine populations. Additionally, I am conducting exposure experiments to investigate physiological responses of larval oysters to multiple stressors and using genomic techniques to determine the underlying mechanisms of those responses. As I believe that reproducibility is an important part of science, all protocols and code used in current and future projects can be accessed through my website or GitHub account.     # Describe yourself.
+  desc: I am a recent Ph.D. graduate and a current postdoctoral researcher in the Puritz Lab of Marine Evolutionary Ecology at the University of Rhode Island. My research focuses on how benthic marine organisms adapt to multiple human-driven environmental stressors. During my doctoral studies, I combined seascape genomics with laboratory seawater manipulation experiments to understand how stressors, like coastal acidification and hypoxia, can impact the early life-stages of oysters  and, in turn, shape the connectivity of oyster populations. I utilized Expressed Exome Capture Sequencing (EecSeq) to identify and analyze putatively adaptive regions of the eastern oyster genome under exposure to multiple coastal stressors. By comparing adaptive responses across larval, juvenile, and adult oyster stages, I assessed the adaptive potential of oyster populations in the face of ongoing climate change. Committed to scientific rigor and transparency, I ensure all protocols and code from my current and future projects are openly available via this website and my GitHub account.
+
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
