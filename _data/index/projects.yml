@@ -6,7 +6,7 @@
   gh_user: amyzyck
   repo: EecSeq_NB_EasternOyster
   img: /static/assets/img/landing/6pops_colorcoded.pdf
-  desc: A project using a seascape genomics approach to determine how larval response to multiple coastal stressors shapes the adaptive divergence of wild oyster populations in Narragansett Bay, RI.
+  desc: A project using a seascape genomics approach to link larval oyster responses to multiple coastal stressors, adult oyster population genomics, and environmental data to determine how environmental stressors shape the adaptive divergence of wild oyster populations in Narragansett Bay, RI through selective pressures imposed on the larval stage.
 - name: Impacts of sewage effluent on genomic diversity and connectivity of fiddler crab populations 
 #  i18n: 
   gh_user: amyzyck
