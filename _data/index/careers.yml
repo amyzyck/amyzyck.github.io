@@ -12,7 +12,7 @@
   job:
     detail: Postdoctoral researcher
     i18n: company_a_job
-  icon: fa-laptop-code
+  icon: fa-briefcase
   
 - name:
     detail: University of Rhode Island 
@@ -40,7 +40,7 @@
   job:
     detail: Graduate Research Assistant
     i18n: company_a_job
-  icon: fa-solid fa-laptop-code
+  icon: fa-briefcase
 
 - name:
     detail: University of Rhode Island 
@@ -54,7 +54,7 @@
   job:
     detail: Graduate Teaching Assistant - Invertebrate Zoology, Marine Invertebrates of New England, Introductory Biology
     i18n: company_a_job
-  icon: fa-chalkboard
+  icon: fa-briefcase
 
 - name:
     detail: University of South Carolina 
