@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Investigating how larval response to multiple coastal stressors shapes the distribution of genomic variation of adult oysters
+#  i18n: 
+  gh_user: amyzyck
+  repo: EecSeq_NB_EasternOyster
+  img: /static/assets/img/landing/6pops_colorcoded.pdf
+  desc: A project using a seascape genomics approach to determine how larval response to multiple coastal stressors shapes the adaptive divergence of wild oyster populations in Narragansett Bay, RI.
 - name: Impacts of sewage effluent on genomic diversity and connectivity of fiddler crab populations 
 #  i18n: 
   gh_user: amyzyck
