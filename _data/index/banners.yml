@@ -2,8 +2,20 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
+- src: landing/SpawningOysters.jpg
+  title: Eastern oysters prepped for spawning, collected in Narragansett Bay, RI
+
 - src: landing/SunsetinMD.jpg
   title: Sunset over water - Chesapeake Bay, Maryland
 
+- src: landing/Larvaloyster_microscope.jpg
+  title: D-stage veliger larval oysters under microscope
+
+- src: landing/LargeOyster.jpg
+  title: Largest oyster I have ever seen, collected in Narragansett Bay, RI
+
 - src: landing/nudibranch.jpg
   title: Nudibranch in Point Judith Marina - South Kingstown, RI 
+
+- src: landing/Beavertail.jpg
+  title: Beavertail State Park - Jamestown, RI
