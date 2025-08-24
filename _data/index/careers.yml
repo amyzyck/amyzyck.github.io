@@ -40,7 +40,7 @@
   job:
     detail: Graduate Research Assistant
     i18n: company_a_job
-  icon: fa-laptop-code
+  icon: fa-solid fa-laptop-code
 
 - name:
     detail: University of Rhode Island 
