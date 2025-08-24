@@ -13,6 +13,12 @@
   repo: RISG_LarvalCADO 
   img: /static/assets/img/landing/Larval_oysters.jpg
   desc: A project using single-generation seawater manipulation experiments to investigate genomic and phenotypic responses of larval oysters to high-intensity, diel-cycling pH and dissolved oxygen exposures. 
+- name: Ecological and evolutionary implications of coastal stressor effects on interconnected life stages in the eastern oyster
+#  i18n: 
+  gh_user: amyzyck
+  repo: RISG_LarvJuvCADO 
+  img: /static/assets/img/landing/Settled_juvenile.jpg
+  desc: A project using a single-generation, mutli-life stage seawater manipulation experiment to investigate how larval oyster exposure to high-intensity, diel-cycling pH and dissolved oxygen conditions impact the genomic and physiological responses of juvenile oysters under continued exposure. 
 - name: Impacts of sewage effluent on genomic diversity and connectivity of fiddler crab populations 
 #  i18n: 
   gh_user: amyzyck
